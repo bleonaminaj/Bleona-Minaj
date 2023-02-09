@@ -1,0 +1,2 @@
+# Bleona-Minaj
+Trajnim .net
